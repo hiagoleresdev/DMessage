@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DMessage.Consumer/DMessage.Consumer.csproj" />
+  <Project Path="DMessage.Producer/DMessage.Producer.csproj" />
+</Solution>
